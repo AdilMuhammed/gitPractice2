@@ -1,0 +1,1 @@
+// Java cool in Friday
