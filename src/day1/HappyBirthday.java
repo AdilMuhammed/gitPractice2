@@ -7,6 +7,8 @@ public class HappyBirthday {
         
         
         System.out.println("Happy Birthday, this line updated from gitHub");
+        
+        // Second update from gitHub
 
 
 
